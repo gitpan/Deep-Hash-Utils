@@ -3,3 +3,6 @@ Makefile.PL
 MANIFEST
 README
 lib/Deep/Hash/Utils.pm
+t/01-reach.t
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
